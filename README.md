@@ -1,7 +1,6 @@
-# SD-101
-Mini Mixer
+# SD-101 Mini Mixer
 
-License: CC BY-SA 4.0
+CC BY-SA 4.0
 
 Copyright 2015 Sonic Detours. All Rights Reservered.
 
